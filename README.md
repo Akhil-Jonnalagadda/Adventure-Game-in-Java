@@ -15,7 +15,7 @@ A simple Java-based text adventure game where you explore a forest, fight enemie
 1. **Clone the Repo**:
    ```bash
    https://github.com/Akhil-Jonnalagadda/Adventure-Game-in-Java.git
-   cd text-based-adventure-game
+   cd AdventureGame
    ```
 
 2. **Compile**:
